@@ -1,5 +1,7 @@
 <?php
 var $miarray;
 $miarray = Array();
-array_merge();
+$miarray = $array('AAA' => 'aaa' , 'BBB' => 'bbb' );
+array_merge($miarray);
+//ddd
 ?>
