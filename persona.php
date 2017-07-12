@@ -7,7 +7,7 @@
 
      function __construct()
     {
-        $this->nombre="wwww";
+        $this->nombre="qqqq";
     }
 
      function setNombre($nombre)
